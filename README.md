@@ -1,4 +1,4 @@
-
+![brp-logo](https://github.com/user-attachments/assets/a5af7f7d-8e0f-4b72-8326-7f1d641d86d7)
 # Brilliant-Plugin
 🚀 One-Click Ad Mediation & Monetization Suite for Unity
 
